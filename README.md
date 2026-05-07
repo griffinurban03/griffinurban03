@@ -7,7 +7,7 @@ Software Engineering student at **Iowa State University** (graduating May 2026),
 ##  Tech & Tools
 
 **Languages:** TypeScript · JavaScript · C++ · C · HTML/CSS  
-**Frameworks & Libraries:** React Native · Expo · Vue.js
+**Frameworks & Libraries:** React Native · Expo
 **Tools:** Git · VS Code · Node.js  
 **Comfortable with:** OOP, data structures, algorithms, systems programming
 
