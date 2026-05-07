@@ -2,14 +2,12 @@
 
 Software Engineering student at **Iowa State University** (graduating May 2026), looking for a developer role where I can build things people actually use.
 
-From TypeScript on the frontend to lower-level systems work in C++, I care about writing code that's readable, performant, and worth maintaining.
-
 ---
 
 ##  Tech & Tools
 
 **Languages:** TypeScript · JavaScript · C++ · C · HTML/CSS  
-**Frameworks & Libraries:** React Native · Expo  
+**Frameworks & Libraries:** React Native · Expo · Vue.js
 **Tools:** Git · VS Code · Node.js  
 **Comfortable with:** OOP, data structures, algorithms, systems programming
 
@@ -18,12 +16,12 @@ From TypeScript on the frontend to lower-level systems work in C++, I care about
 ##  Projects
 
 ### [RackTracker](https://github.com/griffinurban03/RackTracker) - *TypeScript · React Native · Expo*
-My current project: A mobile app for tracking and managing gear inventory. Built with a component-based architecture in TypeScript using React Native and Expo. Handles real data organization problems — searching, categorizing, and managing equipment across a collection.
+My current project: A mobile app for tracking and managing climbing gear inventory. Built with a component-based architecture in TypeScript using React Native and Expo.
 
 ---
 
 ### [RayTracer](https://github.com/griffinurban03/RayTracer) - *C++*
-A fully-featured ray tracer built from scratch in C++, following and extending the *Ray Tracing in One Weekend* series. This went well beyond the tutorial — I implemented:
+A fully-featured ray tracer built from scratch in C++, following and extending the *Ray Tracing in One Weekend* series. I implemented:
 
 - **Multi-threaded rendering** for real performance gains
 - **Bounding Volume Hierarchies (BVH)** for spatial acceleration
@@ -31,8 +29,6 @@ A fully-featured ray tracer built from scratch in C++, following and extending t
 - **Volume rendering** (smoke, clouds, participating media)
 - **.OBJ mesh loading** with smooth shading via normal interpolation
 - **Defocus blur, motion blur, HDR, cube maps, Perlin noise**
-
-This taught me more about C++, math, and how rendering actually works than any course I've taken.
 
 ---
 
@@ -45,7 +41,7 @@ Ported a C# multiplayer Asteroids-style game to run in the browser using HTML an
 
 - Wrapping up my SE degree at Iowa State (May 2026)
 - Continuing to develop RackTracker
-- Actively looking for full-stack developer roles — internships and new grad positions
+- Actively looking for frontend developer roles — internships and new grad positions
 
 ---
 
