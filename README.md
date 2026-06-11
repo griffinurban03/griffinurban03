@@ -8,14 +8,14 @@ Software Engineering Intern at Bound
 
 **Languages:** TypeScript · JavaScript · C++ · C · HTML/CSS  
 **Frameworks & Libraries:** React Native · Expo  
-**Tools:** Git · VS Code · Node.js  
+**Tools:** Git · VS Code · Node.js · Linear  
 **Comfortable with:** OOP, data structures, algorithms, systems programming
 
 ---
 
 ##  Projects
 
-### [RackTracker] - *TypeScript · React Native · Expo*
+### RackTracker - *TypeScript · React Native · Expo*
 My current project: A mobile app for tracking and managing climbing gear inventory. Built with a component-based architecture in TypeScript using React Native and Expo.
 
 ---
@@ -29,18 +29,6 @@ A fully-featured ray tracer built from scratch in C++, following and extending t
 - **Volume rendering** (smoke, clouds, participating media)
 - **.OBJ mesh loading** with smooth shading via normal interpolation
 - **Defocus blur, motion blur, HDR, cube maps, Perlin noise**
-
----
-
-### [AsterixTrackerPort](https://github.com/griffinurban03/AsterixTrackerPort) - *HTML · JavaScript*
-Ported a C# multiplayer Asteroids-style game to run in the browser using HTML and JavaScript, with assistance from Gemini.
-
----
-
-##  Currently
-
-- Spending my summer working at Bound
-- Continuing to develop RackTracker
 
 ---
 
