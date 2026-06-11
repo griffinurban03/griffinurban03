@@ -1,6 +1,6 @@
 # Hey, I'm Griffin Urban 👋
 
-Software Engineering student at **Iowa State University** (graduating May 2026), looking for a developer role where I can build things people actually use.
+Software Engineering Intern at Bound
 
 ---
 
@@ -15,7 +15,7 @@ Software Engineering student at **Iowa State University** (graduating May 2026),
 
 ##  Projects
 
-### [RackTracker](https://github.com/griffinurban03/RackTracker) - *TypeScript · React Native · Expo*
+### [RackTracker] - *TypeScript · React Native · Expo*
 My current project: A mobile app for tracking and managing climbing gear inventory. Built with a component-based architecture in TypeScript using React Native and Expo.
 
 ---
@@ -39,15 +39,14 @@ Ported a C# multiplayer Asteroids-style game to run in the browser using HTML an
 
 ##  Currently
 
-- Wrapping up my SE degree at Iowa State (May 2026)
+- Spending my summer working at Bound
 - Continuing to develop RackTracker
-- Actively looking for frontend developer roles — internships and new grad positions
 
 ---
 
 ##  Get in Touch
 
-I'm actively looking for opportunities. If something on this profile caught your eye, I'd love to talk.
+Always looking to connect, find me on:
 
 - **LinkedIn:** [linkedin.com/in/griffin-urban](https://www.linkedin.com/in/griffin-urban/)
 
